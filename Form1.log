@@ -1,0 +1,5 @@
+Line 19: Class MSComctlLib.ImageList of control ImageList1 was not a loaded control class.
+Line 65: Class MSComctlLib.StatusBar of control sbar was not a loaded control class.
+Line 91: Class MSComctlLib.Toolbar of control tb was not a loaded control class.
+Line 150: Class MSComDlg.CommonDialog of control cmdg was not a loaded control class.
+Line 157: Class RichTextLib.RichTextBox of control rtb was not a loaded control class.
